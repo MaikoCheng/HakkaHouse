@@ -1,6 +1,6 @@
 {
   "dataset": "hakka-house-community-speech",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Local-first aligned Hakka speech and translation data.",
   "license_status": "確認 required before sharing or training outside this project",
   "items": [
@@ -33,6 +33,82 @@
           "The MP3 is the audio track for 20 Facebook(5).mp4.",
           "Dutch text is translated from the supplied English transcript; the unexplained expression Giu Lon Poi is retained.",
           "Review Dutch translations before model training."
+      ]
+    },
+    {
+      "id": "20-facebook-6-sample",
+      "audio": {
+        "filename": "20 Facebook(6).mp3",
+        "local_path": "E:\\maiko\\Downloads\\20 Facebook(6).mp3",
+        "format": "mp3",
+        "size_bytes": 3469724,
+        "size_mb": 3.31
+      },
+      "transcript": {
+        "file": "transcripts/20-facebook-6.json",
+        "segments": 27,
+        "language": "Hakka",
+        "additional_languages": ["Cantonese"],
+        "romanization": "Pha̍k-fa-sṳ style supplied by contributor",
+        "english_segments": 27,
+        "dutch_segments": 27
+      },
+      "alignment_status": "audio-transcript-aligned-by-user-timestamps",
+      "notes": [
+        "Cantonese daughter lines are labeled separately from Hakka mother lines.",
+        "Dutch text is translated from the supplied English transcript.",
+        "Review Dutch translations before model training."
+      ]
+    },
+    {
+      "id": "ngai-he-hakka-nyin",
+      "audio": {
+        "filename": "Ngai He Hakka Nyin Oi Sit Mung Choi.mp3",
+        "local_path": "E:\\maiko\\Downloads\\Ngai He Hakka Nyin Oi Sit Mung Choi.mp3",
+        "format": "mp3",
+        "size_bytes": 4559861,
+        "size_mb": 4.35
+      },
+      "transcript": {
+        "file": "transcripts/ngai-he-hakka-nyin.json",
+        "segments": 54,
+        "language": "Hakka",
+        "additional_languages": ["Mandarin"],
+        "dialect": "Malaysian Hakka",
+        "romanization": "Pha̍k-fa-sṳ supplied by contributor",
+        "english_segments": 54,
+        "dutch_segments": 54
+      },
+      "alignment_status": "audio-transcript-aligned-by-user-timestamps",
+      "notes": [
+        "Mandarin intro lines are labeled separately from Hakka song lines.",
+        "Repeated chorus lines are retained at each timestamp for audio alignment.",
+        "Dutch text is user-provided."
+      ]
+    },
+    {
+      "id": "ngai-he-hakka-nyin-alt",
+      "audio": {
+        "filename": "Ngai he hakka nyin.mp3",
+        "local_path": "E:\\maiko\\Downloads\\Ngai he hakka nyin.mp3",
+        "format": "mp3",
+        "size_bytes": 5904912,
+        "size_mb": 5.63
+      },
+      "transcript": {
+        "file": "transcripts/ngai-he-hakka-nyin-alt.json",
+        "segments": 54,
+        "language": "Hakka",
+        "dialect": "Malaysian Hakka",
+        "romanization": "Pha̍k-fa-sṳ supplied by contributor",
+        "english_segments": 54,
+        "dutch_segments": 54
+      },
+      "alignment_status": "audio-transcript-aligned-by-user-timestamps",
+      "notes": [
+        "This is a separate recording/orthographic variant of the same song.",
+        "Official subtitles use a different character convention from the earlier song transcript.",
+        "Dutch text is user-provided."
       ]
     }
   ]

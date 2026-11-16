@@ -139,6 +139,7 @@ export default function Home() {
         <nav className={styles.nav} aria-label="Main navigation">
           <a className={styles.activeNav} href="#translate">Translate</a>
           <a href="#learn">Learn</a>
+          <a href="/review">Review</a>
           <a href="#about">About</a>
         </nav>
         <button className={styles.helpButton} aria-label="Open help">?</button>
