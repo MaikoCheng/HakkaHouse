@@ -1,0 +1,380 @@
+[
+  {
+    "source": "Good morning, how are you today?",
+    "sourceLanguage": "English",
+    "targetLanguage": "Hakka",
+    "translation": "Ngí zǎo, ngi an-voi he?",
+    "kind": "community-example"
+  },
+  {
+    "source": "Goedemorgen, hoe gaat het vandaag met je?",
+    "sourceLanguage": "Dutch",
+    "targetLanguage": "Hakka",
+    "translation": "Ngí zǎo, ngi an-voi he?",
+    "kind": "community-example"
+  },
+  {
+    "source": "Ngí zǎo, ngi an-voi he?",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "English",
+    "translation": "Good morning, how are you today?",
+    "kind": "community-example"
+  },
+  {
+    "source": "Ngí zǎo, ngi an-voi he?",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "Dutch",
+    "translation": "Goedemorgen, hoe gaat het vandaag met je?",
+    "kind": "community-example"
+  },
+  {
+    "source": "Ngi koen mak-kai",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "Dutch",
+    "translation": "Wat doe je?",
+    "kind": "community-provided"
+  },
+  {
+    "source": "Wat doe je?",
+    "sourceLanguage": "Dutch",
+    "targetLanguage": "Hakka",
+    "translation": "Ngi koen mak-kai",
+    "kind": "community-provided"
+  },
+  {
+    "source": "Ngai m sit gi",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "Dutch",
+    "translation": "Ik ken hem/haar niet.",
+    "kind": "community-provided"
+  },
+  {
+    "source": "Ik ken hem/haar niet.",
+    "sourceLanguage": "Dutch",
+    "targetLanguage": "Hakka",
+    "translation": "Ngai m sit gi",
+    "kind": "community-provided"
+  },
+  {
+    "source": "ngai zon vuk-ka sit fan",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "Dutch",
+    "translation": "Ik ga naar huis om te eten.",
+    "kind": "community-provided"
+  },
+  {
+    "source": "Ik ga naar huis om te eten.",
+    "sourceLanguage": "Dutch",
+    "targetLanguage": "Hakka",
+    "translation": "ngai zon vuk-ka sit fan",
+    "kind": "community-provided"
+  },
+  {
+    "source": "客家人",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "English",
+    "translation": "Hakka person / Hakka people",
+    "kind": "video-verified"
+  },
+  {
+    "source": "客家人",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "Dutch",
+    "translation": "Hakka-persoon / Hakka-mensen",
+    "kind": "video-verified"
+  },
+  {
+    "source": "來做朋友",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "English",
+    "translation": "Let's be friends",
+    "kind": "video-verified"
+  },
+  {
+    "source": "來做朋友",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "Dutch",
+    "translation": "Laten we vrienden worden",
+    "kind": "video-verified"
+  },
+  {
+    "source": "冇高冇低",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "English",
+    "translation": "No higher or lower (all equals)",
+    "kind": "video-verified"
+  },
+  {
+    "source": "冇高冇低",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "Dutch",
+    "translation": "Niet hoger of lager (allemaal gelijk)",
+    "kind": "video-verified"
+  },
+  {
+    "source": "來大家傾偈",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "English",
+    "translation": "Come let's all chat",
+    "kind": "video-verified"
+  },
+  {
+    "source": "來大家傾偈",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "Dutch",
+    "translation": "Kom, laten we allemaal gezellig praten",
+    "kind": "video-verified"
+  },
+  {
+    "source": "你歡喜，𠊎又歡喜",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "English",
+    "translation": "When you're happy, I'm happy too",
+    "kind": "video-verified"
+  },
+  {
+    "source": "你歡喜，𠊎又歡喜",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "Dutch",
+    "translation": "Als jij blij bent, ben ik ook blij",
+    "kind": "video-verified"
+  },
+  {
+    "source": "請飲茶",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "English",
+    "translation": "Treat someone to tea",
+    "kind": "video-verified"
+  },
+  {
+    "source": "請飲茶",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "Dutch",
+    "translation": "Iemand trakteren op thee",
+    "kind": "video-verified"
+  },
+  {
+    "source": "客家妹，人見人愛",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "English",
+    "translation": "Hakka girls are loved by everyone",
+    "kind": "video-verified"
+  },
+  {
+    "source": "客家妹，人見人愛",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "Dutch",
+    "translation": "Hakka-meisjes zijn geliefd bij iedereen",
+    "kind": "video-verified"
+  },
+  {
+    "source": "狗吠",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "English",
+    "translation": "Dog barking",
+    "kind": "video-verified"
+  },
+  {
+    "source": "狗吠",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "Dutch",
+    "translation": "Blaffende hond",
+    "kind": "video-verified"
+  },
+  {
+    "source": "多謝你",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "English",
+    "translation": "Thank you very much",
+    "kind": "video-verified"
+  },
+  {
+    "source": "多謝你",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "Dutch",
+    "translation": "Hartelijk dank",
+    "kind": "video-verified"
+  },
+  {
+    "source": "恭喜發財",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "English",
+    "translation": "Wishing you happiness and prosperity",
+    "kind": "video-verified"
+  },
+  {
+    "source": "恭喜發財",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "Dutch",
+    "translation": "Geluk en voorspoed gewenst",
+    "kind": "video-verified"
+  },
+  {
+    "source": "盤滿缽滿",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "English",
+    "translation": "Abundant wealth (bowls and pots overflowing)",
+    "kind": "video-verified"
+  },
+  {
+    "source": "盤滿缽滿",
+    "sourceLanguage": "Hakka",
+    "targetLanguage": "Dutch",
+    "translation": "Overvloedige rijkdom",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Hakka person / Hakka people",
+    "sourceLanguage": "English",
+    "targetLanguage": "Hakka",
+    "translation": "客家人",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Hakka-persoon / Hakka-mensen",
+    "sourceLanguage": "Dutch",
+    "targetLanguage": "Hakka",
+    "translation": "客家人",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Let's be friends",
+    "sourceLanguage": "English",
+    "targetLanguage": "Hakka",
+    "translation": "來做朋友",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Laten we vrienden worden",
+    "sourceLanguage": "Dutch",
+    "targetLanguage": "Hakka",
+    "translation": "來做朋友",
+    "kind": "video-verified"
+  },
+  {
+    "source": "No higher or lower (all equals)",
+    "sourceLanguage": "English",
+    "targetLanguage": "Hakka",
+    "translation": "冇高冇低",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Niet hoger of lager (allemaal gelijk)",
+    "sourceLanguage": "Dutch",
+    "targetLanguage": "Hakka",
+    "translation": "冇高冇低",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Come let's all chat",
+    "sourceLanguage": "English",
+    "targetLanguage": "Hakka",
+    "translation": "來大家傾偈",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Kom, laten we allemaal gezellig praten",
+    "sourceLanguage": "Dutch",
+    "targetLanguage": "Hakka",
+    "translation": "來大家傾偈",
+    "kind": "video-verified"
+  },
+  {
+    "source": "When you're happy, I'm happy too",
+    "sourceLanguage": "English",
+    "targetLanguage": "Hakka",
+    "translation": "你歡喜，𠊎又歡喜",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Als jij blij bent, ben ik ook blij",
+    "sourceLanguage": "Dutch",
+    "targetLanguage": "Hakka",
+    "translation": "你歡喜，𠊎又歡喜",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Treat someone to tea",
+    "sourceLanguage": "English",
+    "targetLanguage": "Hakka",
+    "translation": "請飲茶",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Iemand trakteren op thee",
+    "sourceLanguage": "Dutch",
+    "targetLanguage": "Hakka",
+    "translation": "請飲茶",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Hakka girls are loved by everyone",
+    "sourceLanguage": "English",
+    "targetLanguage": "Hakka",
+    "translation": "客家妹，人見人愛",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Hakka-meisjes zijn geliefd bij iedereen",
+    "sourceLanguage": "Dutch",
+    "targetLanguage": "Hakka",
+    "translation": "客家妹，人見人愛",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Dog barking",
+    "sourceLanguage": "English",
+    "targetLanguage": "Hakka",
+    "translation": "狗吠",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Blaffende hond",
+    "sourceLanguage": "Dutch",
+    "targetLanguage": "Hakka",
+    "translation": "狗吠",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Thank you very much",
+    "sourceLanguage": "English",
+    "targetLanguage": "Hakka",
+    "translation": "多謝你",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Hartelijk dank",
+    "sourceLanguage": "Dutch",
+    "targetLanguage": "Hakka",
+    "translation": "多謝你",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Wishing you happiness and prosperity",
+    "sourceLanguage": "English",
+    "targetLanguage": "Hakka",
+    "translation": "恭喜發財",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Geluk en voorspoed gewenst",
+    "sourceLanguage": "Dutch",
+    "targetLanguage": "Hakka",
+    "translation": "恭喜發財",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Abundant wealth (bowls and pots overflowing)",
+    "sourceLanguage": "English",
+    "targetLanguage": "Hakka",
+    "translation": "盤滿缽滿",
+    "kind": "video-verified"
+  },
+  {
+    "source": "Overvloedige rijkdom",
+    "sourceLanguage": "Dutch",
+    "targetLanguage": "Hakka",
+    "translation": "盤滿缽滿",
+    "kind": "video-verified"
+  }
+]

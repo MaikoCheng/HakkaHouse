@@ -1,0 +1,39 @@
+{
+  "dataset": "hakka-house-community-speech",
+  "version": "0.1.0",
+  "description": "Local-first aligned Hakka speech and translation data.",
+  "license_status": "確認 required before sharing or training outside this project",
+  "items": [
+    {
+      "id": "20-facebook-sample",
+      "audio": {
+        "filename": "20 Facebook.mp3",
+        "local_path": "E:\\maiko\\Downloads\\20 Facebook.mp3",
+        "format": "mp3",
+        "size_bytes": 3285463,
+        "size_mb": 3.13
+      },
+      "video": {
+        "filename": "20 Facebook(5).mp4",
+        "local_path": "E:\\maiko\\Downloads\\20 Facebook(5).mp4",
+        "format": "mp4",
+        "size_bytes": 2310123,
+        "size_mb": 2.2
+      },
+      "transcript": {
+        "file": "transcripts/20-facebook-5.json",
+        "segments": 29,
+        "language": "Hakka",
+        "romanization": "Pha̍k-fa-sṳ style supplied by contributor",
+        "english_segments": 29,
+        "dutch_segments": 29
+      },
+        "alignment_status": "confirmed-same-recording",
+      "notes": [
+          "The MP3 is the audio track for 20 Facebook(5).mp4.",
+          "Dutch text is translated from the supplied English transcript; the unexplained expression Giu Lon Poi is retained.",
+          "Review Dutch translations before model training."
+      ]
+    }
+  ]
+}

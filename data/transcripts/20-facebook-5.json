@@ -1,0 +1,298 @@
+{
+  "source_video": "20 Facebook(5).mp4",
+  "language": "Hakka",
+  "created_from": "User-provided transcript and timestamps",
+  "verification_status": "user-provided; review before model training",
+  "segments": [
+    {
+      "start": "00:00",
+      "end": "00:03",
+      "hakka_characters": "客家朋友，𠊎就係客家人。",
+      "hakka_romanization": "Hakka phèn-yû, ngài chhiu he Hak-kâ-ngìn.",
+      "english": "Hakka friends, I am a Hakka person.",
+      "dutch": "Hakka-vrienden, ik ben een Hakka.",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "00:04",
+      "end": "00:05",
+      "hakka_characters": "惹兜又係客家人。",
+      "hakka_romanization": "Ngâ-têu yu he Hak-kâ-ngìn.",
+      "english": "You all are also Hakka people.",
+      "dutch": "Jullie zijn ook Hakka.",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "00:06",
+      "end": "00:08",
+      "hakka_characters": "𠊎兜來做朋友啊。",
+      "hakka_romanization": "Ngài-têu lòi cho phèn-yû â.",
+      "english": "Let's be friends.",
+      "dutch": "Laten we vrienden worden.",
+      "verification_status": "user-provided; Dutch cross-checked from verified pair",
+      "notes": null
+    },
+    {
+      "start": "00:09",
+      "end": "00:13",
+      "hakka_characters": "見到面，你喊𠊎、𠊎喊你乜好。",
+      "hakka_romanization": "Kien-tó mien, ngì ham ngài, ngài ham ngì mâ hó.",
+      "english": "When we meet, whether you greet me or I greet you is fine.",
+      "dutch": "Als we elkaar ontmoeten, maakt het niet uit of jij mij begroet of ik jou.",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "00:13",
+      "end": "00:16",
+      "hakka_characters": "大家都係一樣嘅，冇高冇低。",
+      "hakka_romanization": "Thai-kâ tû he yit-yong ke, mò kô mò tâi.",
+      "english": "Everyone is the same, no one is higher or lower.",
+      "dutch": "Niet hoger of lager (allemaal gelijk).",
+      "verification_status": "user-provided; Dutch cross-checked from verified pair",
+      "notes": null
+    },
+    {
+      "start": "00:18",
+      "end": "00:19",
+      "hakka_characters": "你同𠊎笑，𠊎也同你笑。",
+      "hakka_romanization": "Ngì thùng ngài seu, ngài yâ thùng ngì seu.",
+      "english": "You laugh with me, and I also laugh with you.",
+      "dutch": "Jij lacht met mij en ik lach ook met jou.",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "00:20",
+      "end": "00:22",
+      "hakka_characters": "你惹𠊎惡，𠊎也同你惡。",
+      "hakka_romanization": "Ngì ngiâ ngài ok, ngài yâ thùng ngì ok.",
+      "english": "If you provoke me to be fierce, I will be fierce with you too.",
+      "dutch": "Als je mij uitdaagt, word ik ook boos op jou.",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "00:22",
+      "end": "00:24",
+      "hakka_characters": "你愛打，𠊎也同你打。哈哈哈！",
+      "hakka_romanization": "Ngì oi tá, ngài yâ thùng ngì tá. Hahaha!",
+      "english": "If you want to fight, I'll fight with you too. Hahaha!",
+      "dutch": "Als je wilt vechten, vecht ik ook met je. Hahaha!",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "00:25",
+      "end": "00:26",
+      "hakka_characters": "客家人係恁樣嘅啊？",
+      "hakka_romanization": "Hak-kâ-ngìn he án-ngióng ke â?",
+      "english": "Are Hakka people like that?",
+      "dutch": "Zijn Hakka-mensen zo?",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": "Off-camera"
+    },
+    {
+      "start": "00:27",
+      "end": "00:27",
+      "hakka_characters": "係恁樣嘅囉。",
+      "hakka_romanization": "He án-ngióng ke lò.",
+      "english": "Yes, like that.",
+      "dutch": "Zo is het.",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "00:28",
+      "end": "00:34",
+      "hakka_characters": "客家人惡，唔係無緣無故惡咩。",
+      "hakka_romanization": "Ngài kóng, Hak-kâ-ngìn ok, m̀-he mò-yèn-mò-ku ok mê.",
+      "english": "I say, Hakka people aren't fierce without a reason.",
+      "dutch": "Ik zeg: Hakka-mensen zijn niet zonder reden fel.",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": "Includes off-camera question at the start"
+    },
+    {
+      "start": "00:35",
+      "end": "00:39",
+      "hakka_characters": "你好𠊎好嘛，兩家都好嘛，就毋會惡囉。",
+      "hakka_romanization": "Ngì hó ngài hó mâ, lióng-kâ tû hó mâ, chhiu m̀-voi ok lò.",
+      "english": "As long as you're good and I'm good, both sides are good, then we won't be fierce.",
+      "dutch": "Als jij goed bent en ik goed ben, en beide kanten goed zijn, worden we niet fel.",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "00:40",
+      "end": "00:43",
+      "hakka_characters": "你過分過頭，就會打你囉。哈哈哈！",
+      "hakka_romanization": "Ngì ko-fun ko-thèu, chhiu voi tá ngì lò. Hahaha!",
+      "english": "If you go too far, then I'll hit you. Hahaha!",
+      "dutch": "Als je te ver gaat, sla ik je. Hahaha!",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "00:45",
+      "end": "00:48",
+      "hakka_characters": "客家人，來大家傾偈！",
+      "hakka_romanization": "Hak-kâ-ngìn, lòi thai-kâ khîn-kâi!",
+      "english": "Hakka people, come let's all chat!",
+      "dutch": "Kom, laten we allemaal gezellig praten.",
+      "verification_status": "user-provided; Dutch cross-checked from verified pair",
+      "notes": null
+    },
+    {
+      "start": "00:49",
+      "end": "00:51",
+      "hakka_characters": "𠊎兜大家都幾十歲囉。",
+      "hakka_romanization": "Ngài-têu thai-kâ tû kí-sṳ̍p se lò.",
+      "english": "We are all decades old now.",
+      "dutch": "We zijn allemaal al tientallen jaren oud.",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "00:52",
+      "end": "00:53",
+      "hakka_characters": "你歡喜，𠊎又歡喜。",
+      "hakka_romanization": "Ngì fôn-hí, ngài yu fôn-hí.",
+      "english": "When you're happy, I'm happy too.",
+      "dutch": "Als jij blij bent, ben ik ook blij.",
+      "verification_status": "user-provided; Dutch cross-checked from verified pair",
+      "notes": null
+    },
+    {
+      "start": "00:54",
+      "end": "00:56",
+      "hakka_characters": "你見到𠊎又笑，𠊎見到你也笑。",
+      "hakka_romanization": "Ngì kien-tó ngài yu seu, ngài kien-tó ngì yâ seu.",
+      "english": "When you see me you smile, and when I see you I smile too.",
+      "dutch": "Als je me ziet, lach je, en als ik jou zie, lach ik ook.",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "00:57",
+      "end": "01:01",
+      "hakka_characters": "見到呢，毋使講乜人請乜人飲茶，你請𠊎、𠊎請你都好。",
+      "hakka_romanization": "Kien-tó nê, m̀-sṳ́ kóng mak-ngìn chhiáng mak-ngìn yím-chhà, ngì chhiáng ngài, ngài chhiáng ngì tû hó.",
+      "english": "When we meet, no need to worry who treats whom to tea—you treat me or I treat you, either is fine.",
+      "dutch": "Als we elkaar ontmoeten, hoeven we ons geen zorgen te maken over wie wie op thee trakteert — jij trakteert mij of ik trakteer jou, allebei is goed.",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "01:02",
+      "end": "01:03",
+      "hakka_characters": "大家歡歡喜喜！",
+      "hakka_romanization": "Thai-kâ fôn-fôn-hí-hí!",
+      "english": "Everyone happy and joyful!",
+      "dutch": "Iedereen blij en vrolijk!",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "01:05",
+      "end": "01:07",
+      "hakka_characters": "客家妹，人見人愛。",
+      "hakka_romanization": "Hak-kâ-moi, ngìn-kien-ngìn-oi.",
+      "english": "Hakka girls, loved by everyone who sees them.",
+      "dutch": "Hakka-meisjes zijn geliefd bij iedereen.",
+      "verification_status": "user-provided; Dutch cross-checked from verified pair",
+      "notes": null
+    },
+    {
+      "start": "01:09",
+      "end": "01:11",
+      "hakka_characters": "火車來載，Giu Lon Poi！",
+      "hakka_romanization": "Fó-chhâ lòi chai, Giu Lon Poi!",
+      "english": "The train comes to pick them up, Giu Lon Poi!",
+      "dutch": "De trein komt hen ophalen, Giu Lon Poi!",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": "Giu Lon Poi is retained as an unexplained expression"
+    },
+    {
+      "start": "01:12",
+      "end": "01:13",
+      "hakka_characters": "乜嘢係 Giu Lon Poi？",
+      "hakka_romanization": null,
+      "english": "What is Giu Lon Poi?",
+      "dutch": "Wat is Giu Lon Poi?",
+      "verification_status": "Cantonese and English user-provided; Dutch translated from English, pending review",
+      "notes": "Off-camera Cantonese"
+    },
+    {
+      "start": "01:14",
+      "end": "01:18",
+      "hakka_characters": "狗吠啦！汪汪汪汪，汪汪汪！哈哈！",
+      "hakka_romanization": "Kéu phoi lâ! Wong-wong-wong-wong, wong-wong-wong! Haha!",
+      "english": "A dog barking! Woof woof woof woof, woof woof woof! Haha!",
+      "dutch": "Blaffende hond.",
+      "verification_status": "user-provided; Dutch cross-checked from verified pair",
+      "notes": null
+    },
+    {
+      "start": "01:19",
+      "end": "01:22",
+      "hakka_characters": "婆婆老囉，毋講咁多。",
+      "hakka_romanization": "Phò-phò ló lò, m̀-kóng kám tô.",
+      "english": "Granny is old now, won't talk too much.",
+      "dutch": "Hakka-broeders en -zussen, bedankt.",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "01:23",
+      "end": "01:25",
+      "hakka_characters": "客家哥、客家嫂，唔該你啊。",
+      "hakka_romanization": "Hak-kâ-kô, Hak-kâ-só, m̀-kôi ngì â.",
+      "english": "Hakka brothers and sisters, thank you.",
+      "dutch": "Wat aardig dat je kijkt, heel erg bedankt.",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "01:26",
+      "end": "01:28",
+      "hakka_characters": "咁畀面啊，多謝你啊。",
+      "hakka_romanization": "Kám pûn-mien â, tô-chhia ngì â.",
+      "english": "So kind of you to give face (watch), thank you very much.",
+      "dutch": "Hartelijk dank.",
+      "verification_status": "user-provided; Dutch cross-checked from verified pair",
+      "notes": null
+    },
+    {
+      "start": "01:30",
+      "end": "01:34",
+      "hakka_characters": "恭喜發財！新年就來囉。",
+      "hakka_romanization": "Kiûng-hí fat-chhòi! Sîn-ngièn chhiu lòi lò.",
+      "english": "Congratulations and be prosperous! The New Year is almost here.",
+      "dutch": "Gefeliciteerd en veel voorspoed! Het nieuwe jaar komt eraan.",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "01:35",
+      "end": "01:36",
+      "hakka_characters": "愛幾多賺幾多！",
+      "hakka_romanization": "Oi kí-tô chhon kí-tô!",
+      "english": "Earn as much as you wish!",
+      "dutch": "Verdien zoveel als je wilt!",
+      "verification_status": "Hakka and English user-provided; Dutch translated from English, pending review",
+      "notes": null
+    },
+    {
+      "start": "01:38",
+      "end": "01:41",
+      "hakka_characters": "賺到哈哈笑，盤滿缽滿啊！",
+      "hakka_romanization": "Chhon-tó ha-ha-seu, phàn-mân-pot-mân â!",
+      "english": "Earn until you laugh out loud, with bowls and pots overflowing (abundant wealth)!",
+      "dutch": "Overvloedige rijkdom.",
+      "verification_status": "user-provided; Dutch cross-checked from verified pair",
+      "notes": null
+    }
+  ]
+}
